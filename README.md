@@ -12,8 +12,11 @@
   <a href="https://www.linkedin.com/in/julio-guti%C3%A9rrez-mendoza-058560361">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+    <a href="mailto:yuyo272003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="mailto:juliogm2003@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://github.com/yuyo272003">
     <img src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -74,3 +77,9 @@ Soy estudiante de Ingeniería de Software en la Universidad Veracruzana, especia
 
 [![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyo272003&show_icons=true&theme=transparent)](https://github.com/yuyo272003)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyo272003&hide=python&theme=transparent)](https://github.com/yuyo272003)
+
+</p>
+    <p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="serpiente en el tablero de contribuciones alaverga" />
+</p>
